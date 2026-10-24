@@ -1,13 +1,13 @@
 👨‍💻 About Me
 
-Cloud & DevOps Engineer focused on building scalable, secure, and automated cloud infrastructure. Experienced in Infrastructure as Code, cloud resource management, containerization, and CI/CD practices.
+Cloud & DevOps Engineer focused on building scalable, secure, and automated cloud infrastructure using modern cloud technologies and Infrastructure as Code.
 
 ☁️ Designing and managing cloud infrastructure using Microsoft Azure
 🏗️ Provisioning and managing infrastructure using Terraform
 🔄 Automating build, deployment, and delivery workflows
-📦 Working with containerization and orchestration technologies
+📦 Working with containerization and orchestration technologies using Docker and Kubernetes
 🔐 Applying cloud security, access control, and infrastructure best practices
-⚙️ Managing Linux environments, version control, and automation workflows
+⚙️ Managing Linux environments, version control, and automation workflows using Linux and Git
 🛠️ Technical Skills
 
 <p>
