@@ -39,26 +39,91 @@
 <br>
 ⚙️ Managing Linux environments, version control, and automation workflows using Linux and Git
 
-🛠️ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
-<p align="left">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<hr style="border: 0; border-top: 1px solid #d1d9e0;" />
+
+## 🛠️ DevOps Toolchain & Tech Stack
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies &amp; Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>☁️ Cloud Platforms</td>
+      <td>
+        <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>🏗️ IaC &amp; Config Mgmt</td>
+      <td>
+        <img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>📦 Containers &amp; K8s</td>
+      <td>
+        <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/HELM-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+        <img src="https://img.shields.io/badge/ARGO_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>🔄 CI/CD &amp; Version Control</td>
+      <td>
+        <img src="https://img.shields.io/badge/AZURE_DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+        <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>🔐 DevSecOps &amp; Quality</td>
+      <td>
+        <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+        <img src="https://img.shields.io/badge/TRIVY-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+        <img src="https://img.shields.io/badge/TFSEC-555555?style=for-the-badge&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/CHECKOV-6C3FC5?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+        <img src="https://img.shields.io/badge/TFLINT-555555?style=for-the-badge&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/GITLEAKS-555555?style=for-the-badge&logo=git&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>📊 Monitoring &amp; Web Servers</td>
+      <td>
+        <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>🐧 OS, Scripting &amp; Tools</td>
+      <td>
+        <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 
-
-
+<h3 align="center">⚡ BUILD • AUTOMATE • DEPLOY • IMPROVE</h3>
+<p align="center">☁️ Cloud Infrastructure | 🔄 CI/CD Automation | 🐳 Containerization | 🔐 DevSecOps</p>
 
 <br>
 <div align="center">
-⚡ 𝗕𝗨𝗜𝗟𝗗 • 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘 • 𝗗𝗘𝗣𝗟𝗢𝗬 • 𝗜𝗠𝗣𝗥𝗢𝗩𝗘
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F3D66,100:020617&height=100&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
